@@ -22,6 +22,10 @@ This project uses the Chronic Kidney Disease dataset from the UCI Machine Learni
 - **Scikit-learn:** Machine learning models for prediction
 - **Lifelines:** Survival analysis for disease progression
 
+## Medium
+
+Here is some background as to why I even got this project up and running in the first place: https://medium.com/@ameenbasith2000/the-call-that-changed-everything-977acaa1060f
+
 ## Installation
 
 1. Clone the repository:
@@ -29,6 +33,4 @@ This project uses the Chronic Kidney Disease dataset from the UCI Machine Learni
 git clone https://github.com/yourusername/chronic-disease-tracker.git
 cd chronic-disease-tracker
 
-## Medium
 
-Here is some background as to why I even got this project up and running in the first place: https://medium.com/@ameenbasith2000/the-call-that-changed-everything-977acaa1060f
